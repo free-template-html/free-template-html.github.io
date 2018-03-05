@@ -1,0 +1,267 @@
+@media screen and (max-width: 1000px) 
+{
+    /* BANNER */
+    .banner-text h2 
+    {
+        font-size: 40px;
+        width: 750px;
+    }
+}
+
+@media screen and (max-width: 991px) 
+{
+    /* ABOUT */
+    .about-image
+    {
+        width: 70%;
+        margin: 60px auto 0 auto;
+    }
+    /* SERVICES */
+    .service-box
+    {
+        margin-bottom: 30px;
+    }
+    .service-box p
+    {
+        width: 80%;
+        margin: auto;
+    }
+    /* VIDEO */
+    #video h2
+    {
+        font-size: 35px;
+    } 
+    /* TEAM */
+    #team .member 
+    {
+        margin: 0 30px;
+    }
+    #team p
+    {
+        width: 90%;
+        margin: 20px auto;
+    }
+    /* PRICING */
+    .pricing-table 
+    {
+        margin: 20px 30px;
+    }
+    /* BLOG */
+    #blog .blog-post
+    {
+        margin: 20px 30px;
+    }
+    /* FOOTER */
+    .footer-social
+    {
+        margin-top: -40px;
+    }
+}
+
+ @media screen and (max-width: 768px) 
+ {
+    /* GLOBAL */
+    .title-bar h2
+    {
+        font-size: 30px;
+    }
+    /* NAVIGATION */
+    #menu 
+    {
+        background-color: #191919 !important;
+        padding: 0 !important;
+    }
+    .navbar-header 
+    {
+        padding: 17px 0;
+    }
+     #menu.navbar-default .navbar-nav 
+    {
+        text-align: center;
+    }
+    #menu .navbar-brand .logo-light
+    {
+        display: none;
+    }
+    #menu .navbar-brand .logo-dark
+    {
+        display: block;
+        width: 50px;
+    }
+     .navbar-collapse 
+    {
+         border: none;
+         background: 191919;
+    }
+    /* BANNER */
+    .banner-text 
+    {
+        width: 100%;
+    }
+    .banner-text .banner-logo 
+    {
+        width: 180px;
+    }
+    .banner-text h2 
+    {
+        font-size: 30px;
+        width: 100%;
+        letter-spacing: 5px;
+    }
+    .banner-text h2 .spacer
+    {
+        margin: 0;
+    }
+    /* PORTFOLIO */
+    #portfolio .col-md-4
+    {
+        margin: 10px 30px;
+    }
+    /* TESTIMONIALS */
+    #owl-demo .item p 
+    {
+        width: 90%;
+    }
+    /* VIDEO */
+    #video h2
+    {
+        font-size: 30px;
+        width: 90%;
+        margin: 15px auto;
+    }
+    /* OUR VALUES */
+    #our-values .value-table
+    {
+        margin: 0 30px;
+    }
+    /* PARALLAX */
+    .parallax-content h2 
+    {
+        font-size: 50px;
+    }
+    /* COUNTERS */
+    #counters 
+    {
+        padding: 40px 0;
+    }
+    #counters  .counter
+    {
+        margin: 60px 0;
+    }
+    /* CONNECT */
+    #connect h3
+    {
+        font-size: 30px;
+    }
+    /* FOOTER */
+    #footer
+    {
+        padding: 20px 0;
+    }
+    .footer-social
+    {
+        margin-top: 40px;
+    }
+    #footer .col-sm-6
+    {
+        padding: 10px 40px;
+    }
+}
+
+@media screen and (max-width: 550px) 
+{
+    /* GLOBAL */
+    .title-bar h2
+    {
+        font-size: 25px;
+    }
+    /* BANNER */
+    .banner-text h2 
+    {
+        font-size: 25px;
+        width: 100%;
+        letter-spacing: 5px;
+    }
+    /* ABOUT */
+    .about-image
+    {
+        width: 80%;
+    }
+    .about-text
+    {
+        padding: 0 10px;
+    }
+    /* SERVICES */
+    .service-box p
+    {
+        width: 90%;
+        margin: auto;
+    }
+    #services .container
+    {
+        padding-top: 30px;
+    }
+    /* PORTFOLIO */
+    #portfolio .container
+    {
+        padding-top: 30px;
+    }
+    #portfolio .col-md-4
+    {
+        margin: 5px 10px;
+    }
+    /* TESTIMONIALS */
+    #owl-demo .item p 
+    {
+        width: 100%;
+    }
+    /* VIDEO */
+    #video h2
+    {
+        font-size: 25px;
+        width: 95%;
+    }
+    /* TEAM */
+    #team .container
+    {
+        padding-top: 30px;
+    }
+    #team .member 
+    {
+        margin: 0 10px;
+    }
+    /* PRICING */
+    #pricing .container
+    {
+        padding-top: 30px;
+    }
+    /* PRICING */
+    .pricing-table 
+    {
+        margin: 20px 10px;
+    }
+    /* BLOG */
+    #blog .container
+    {
+        padding-top: 30px;
+    }
+    /* BLOG */
+    #blog .blog-post
+    {
+        margin: 20px 10px;
+    }
+    .post-content h3
+    {
+        font-size: 27px;
+    }
+    /* CONNECT */
+    #connect h3
+    {
+        font-size: 25px;
+    }
+    /* FOOTER */
+    #footer h3
+    {
+        font-size: 23px;
+    }
+}
